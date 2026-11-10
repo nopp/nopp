@@ -1,24 +1,3 @@
-## 👋 About Me
-
-```bash
-nopp@pia-server: ~$ whoami
-
-Carlos Augusto Malucelli (nopp|Piá) — DevOps/SRE/Platform Engineer
-
-nopp@pia-server: ~$ uptime --career_progress
-
-15+ years
-
-nopp@pia-server: ~$ cat links.txt
-
-linkedin: linkedin.com/in/carlosmalucelli
-website: carlosmalucelli.com
-
-nopp@pia-server: ~$
-```
-
----
-
 ## 🛠️ Tech Stack & Focus
 
 <div align="center">
